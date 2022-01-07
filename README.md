@@ -1,5 +1,5 @@
-# Basic Starter Kit
+# CPSC 1517 Workbook Repository
 
-## Owner your name
+## David M workbook
 
 alter this statement to indicate the usage of this repository
