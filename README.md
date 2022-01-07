@@ -1,5 +1,5 @@
 # CPSC 1517 Workbook Repository
 
-## David M workbook
+## David Mckinley
 
 alter this statement to indicate the usage of this repository
