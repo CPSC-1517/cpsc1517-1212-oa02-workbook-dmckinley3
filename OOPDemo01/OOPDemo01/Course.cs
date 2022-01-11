@@ -17,24 +17,31 @@ namespace OOPDemo01
         //properties
         public string CourseNo { get; set; }
         public string CourseName { get; set; }
+
+        //constructors
+
+        public Course(string courseNo, string courseName)
+        {
+            CourseNo = courseNo;
+            CourseName = courseName;
+
+        }
+        public Course()
+        {
+
+        }
+
+        //methods
+        public string AddStudent(string student)
+        {
+            return student;
+        }
+        public string DropStudent(string student)
+        {
+            return student;
+        }
     }
 
-    //constructor
-    public Course(string courseNo, string courseName)
-    {
-        CourseNo = courseNo;
-        CourseName = courseName;
-        
-    }
 
-    //methods
-    public string AddStudent(string student)
-    {
-        return student;
-    }
-    public string DropStudent(string student)
-    {
-        return student;
-    }
 }
 
