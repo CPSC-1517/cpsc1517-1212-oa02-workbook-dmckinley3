@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace OOPDemo01
-{//this code is incorrect.
+{//this code is incorrect. use OOP2
     public class Course
     {
 
