@@ -13,7 +13,7 @@ WriteLine($"CourseName: {cpsc1517Course.CourseName}");
 cpsc1517Course.AddStudent("Aaron Fong");
 cpsc1517Course.AddStudent("David L. McKinley");
 cpsc1517Course.AddStudent("Hamza Said");
-cpsc1517Course.LoadFromFile(@"D:\Nait\");
+cpsc1517Course.LoadFromFile(@"D;\NAIT\cpsc\1212\Students.txt");
 
 //Display all the students in a course
 foreach (string currentStudent in cpsc1517Course.Students)
